@@ -1,2 +1,3 @@
 # RetroCosmos
-mediawiki theme
+
+Mediawiki theme forked from https://github.com/Killarnee/DarkCosmos
